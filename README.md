@@ -2,7 +2,7 @@
 Simulator application for Smart Platform
 ### Lottery simulator
 ```
-It can help to simulate lottery
+It can help simulating lottery
 ```
 ### System architecture of Smart Platform
 Applied software development techniques:
